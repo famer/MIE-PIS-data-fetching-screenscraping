@@ -1,0 +1,6 @@
+[submodule "php-screenscraping"]
+	path = php-screenscraping
+	url = git@github.com:famer/php-screenscraping.git
+[submodule "nodejs-screenscraping"]
+	path = nodejs-screenscraping
+	url = git@github.com:famer/nodejs-screenscraping.git
